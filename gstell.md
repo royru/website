@@ -11,7 +11,7 @@ Gstell consists of a native application and a browser extension. Please follow t
 ###  Browser Extension
 
 **Chrome**
-1. Download the [extension](https://seafile.ifi.uzh.ch/f/bb228e290dc84ac1b777/?dl=1).
+1. Download the [extension](https://seafile.ifi.uzh.ch/f/b548f20e361b44209f77/?dl=1).
 2. Go to `chrome:extensions`, select "load unpacked" (with developer mode enabled), and then select the downloaded and unzipped extension folder.
 
 **Firefox**
@@ -20,9 +20,9 @@ Gstell consists of a native application and a browser extension. Please follow t
 
 ### Native Application
 1. Download the application.
-   - [Windows](https://seafile.ifi.uzh.ch/f/d283a94796f746cbbacf/?dl=1)
-   - [macOS (Intel)](https://seafile.ifi.uzh.ch/f/2d76f341249c4c68a2c0/?dl=1)
-   - [macOS (ARM)](https://seafile.ifi.uzh.ch/f/0c6b6082af094ec69caa/?dl=1)
+   - Windows (TBD)
+   - [macOS (Intel and M1)](https://seafile.ifi.uzh.ch/f/21f4c900662341f69951/?dl=1)
+   - [macOS (M2)](https://seafile.ifi.uzh.ch/f/cdca380726a047b88fe8/?dl=1)
 2. Follow the OS-specific installation process and start the application.
    - On macOS, to open Gstell for the first time, right-click the application icon and select "Open" from the context menu.
 3. Gstell is running in the background and you should only see a small icon in the task or status bar. 

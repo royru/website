@@ -6,23 +6,6 @@ body {
   padding: 0 10px;
 }
 
-img.logo {
-  width: 50px;
-  position: absolute;
-  top: 30px;
-  left: 30px;
-  border-radius: 7px;
-}
-
-/* position relative if mobile */
-@media screen and (max-width: 800px) {
-  img.logo {
-    position: relative;
-    left: 0;
-    margin-bottom: 30px;
-  }
-}
-
 h1 {
   font-size: 2.2em;
 }
@@ -31,6 +14,7 @@ h3 {
   margin-top: 1.1em;
   margin-bottom: 0px;
   padding: 0;
+  color: #777;
 }
 
 h3+h1 {
@@ -70,9 +54,10 @@ hr {
 }
 
 h4 {
-  padding-top: 30px;
+  padding-top: 0px;
   margin-bottom: 0px;
   padding-bottom: 0;
+  margin-top: 30px;
 }
 
 blockquote {
@@ -89,4 +74,27 @@ code {
   background-color: #eee;
   padding: 0 3px;
   font-family: monospace;
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }

@@ -3,7 +3,7 @@ layout: gstell.njk
 title: Gstell - Installation
 ---
 
-# Installation Guide
+# Gstell - Installation
 Gstell is a novel approach to help you get organized in the browser. It consists of a native application and a browser extension. Please follow the steps below to install both components.
 
 ##  Browser Extension

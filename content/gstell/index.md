@@ -13,6 +13,8 @@ Currently, we conduct a user study about it.
 
 ![screenshot](/public/img/screenshot.png)
 
+<br id="learn-more">
+
 ## About the User Study
 Gstell is currently under scientific evaluation. To try Gstell for free, please consider signing up to our user study:
 

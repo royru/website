@@ -6,7 +6,7 @@ title: Gstell - Installation
 # Installation Guide
 Gstell is a novel approach to help you get organized in the browser. It consists of a native application and a browser extension. Please follow the steps below to install both components.
 
-###  Browser Extension
+##  Browser Extension
 
 **Chrome**
 1. Download the [extension](/public/assets/gstell-browser-extension-4.0.0.zip).
@@ -19,9 +19,9 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 <!-- 1. Download the extension (TBD, awaiting addon store review).
 1. Go to `about:addons` and select the "Extensions" tab. Click on the "gear" icon, and select "Install Add-on From File...". -->
 
-### Native Application
+## Native Application
 1. Download the application.
-   - Windows (TBD)
+   - [Windows](https://context-electron-updater.vercel.app/download/exe)
    - [macOS (Intel)](https://context-electron-updater.vercel.app/download/dmg)
    - [macOS (Apple Silicon)](https://context-electron-updater.vercel.app/download/dmg_arm64)
 2. Follow the OS-specific installation process and start the application.

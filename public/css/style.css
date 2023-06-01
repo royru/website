@@ -24,6 +24,7 @@ h3+h1 {
 
 img {
   max-width: 80%;
+  width: auto;
 }
 
 a.button {

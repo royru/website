@@ -10,7 +10,9 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 
 **Chrome**
 1. Download the [extension](/public/assets/gstell-browser-extension-4.0.0.zip).
-2. Go to `chrome:extensions`, select "load unpacked" (with developer mode enabled), and then select the downloaded and unzipped extension folder.
+2. Unzip the extension folder and optionally move it to a different location for the duration of the study.
+3. In Chrome, go to `chrome:extensions`, and enable "developer mode".
+4. Click "load unpacked" and select the extension folder (step 2).
 
 **Firefox**
 1. Download the [extension](/public/assets/gstell-browser-extension-4.0.0.zip).
@@ -25,5 +27,11 @@ Gstell is a novel approach to help you get organized in the browser. It consists
    - [macOS (Intel)](https://context-electron-updater.vercel.app/download/dmg)
    - [macOS (Apple Silicon)](https://context-electron-updater.vercel.app/download/dmg_arm64)
 2. Follow the OS-specific installation process and start the application.
-3. Gstell is running in the background and you should see a small icon in the task or status bar. 
-4. For the duration of this study, keep Gstell running.
+3. Gstell is running in the background and you should see a small icon in the task or status bar. <br>
+   ![status bar icon](/public/img/status-bar-icon.png)
+
+
+> 👉 For the duration of this study, please keep Gstell running.
+
+<br><br><br>
+

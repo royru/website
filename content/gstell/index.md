@@ -21,7 +21,7 @@ Gstell is currently under scientific evaluation. To try Gstell for free, please 
 <a href="https://uzhwwf.qualtrics.com/jfe/form/SV_22V5buBvQLEgBxk" class="button">Join Study and Try Gstell</a>
 
 #### Procedure
-The study spans approximately **15-20 work days** and takes a maximum of **3 hours**. Before and after the study, the research team will ask you to complete a survey and/or participate in an interview.
+The study lasts around 4 weeks. You'll get to use Gstell in the second half and beyond - if you like. Along with using the app during your regular work day, you will be asked to fill out 2 online questionnaires at the beginning and end of the study (about 30 minutes each) and answer some questions throught the study (~5 minutes per day).
 
 <!-- You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](OTODO:). -->
 
@@ -30,7 +30,7 @@ You can **use Gstell for free** during and after the study. For each participati
 
 #### Eligibility
 You may be eligible to participate in this research study and try Gstell if you:
-- Regularly use Firefox or Chrome as your primary browser on Windows or macOS
+- Regularly use Chrome or Firefox as your primary browser on Windows or macOS
 - Are able to install software on your device
 - Are over the age of 18
 

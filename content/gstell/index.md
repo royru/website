@@ -23,14 +23,20 @@ Gstell is currently under scientific evaluation. To try Gstell for free, please 
 #### Procedure
 The study lasts around 4 weeks. You'll get to use Gstell in the second half and beyond - if you like. Along with using the app during your regular work day, you will be asked to fill out 2 online questionnaires at the beginning and end of the study (about 30 minutes each) and answer some questions throught the study (~5 minutes per day).
 
-<!-- You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](OTODO:). -->
-
 #### Compensation
-You can **use Gstell for free** during and after the study. For each participation, we will also **donate CHF 10** to an organization of your chosing and you can **enter a raffle** to win one of CHF 100 gift cards.
+You can **use Gstell for free** during and after the study. For each participation, we will also **donate CHF 10** to an organization of your chosing and you can **enter a raffle** to win one of CHF/USD 100 gift cards.
+
+#### Data Privacy
+Gstell collects data about your browsing activity, but...
+- All data remains **local** on your machine. No data is sent to the cloud automatically. After the study, you will be able to manually upload the data to our secured servers.
+- Gstell can and will automatically obfuscate and anonymize sensitve data (e.g. URLs) that you share with us. 
+- You can review all your data that you share with us.
+
+> You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](/public/assets/gstell-consent-form.pdf).
 
 #### Eligibility
 You may be eligible to participate in this research study and try Gstell if you:
-- Regularly use Chrome or Firefox as your primary browser on Windows or macOS
+- Regularly use Chrome or Firefox on Windows or macOS
 - Are able to install software on your device
 - Are over the age of 18
 

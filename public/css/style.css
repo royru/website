@@ -99,3 +99,10 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+figcaption {
+  font-size: 0.8em;
+  color: #505050;
+  margin-top: 2px;
+  margin-bottom: 20px;
+}

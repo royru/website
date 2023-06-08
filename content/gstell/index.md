@@ -9,7 +9,9 @@ title: Gstell
 Gstell is a novel approach to help you get organized in the browser.
 Currently, we conduct a user study about it. 
 
-<a href="#learn-more" class="button">Try Gstell</a>
+<a href="#learn-more" class="button">Try Gstell*</a>
+
+\* and support our research 😊
 
 ![screenshot](/public/img/screenshot.png)
 
@@ -27,10 +29,10 @@ The study lasts around 4 weeks. You'll get to use Gstell in the second half and 
 You can **use Gstell for free** during and after the study. For each participation, we will also **donate CHF 10** to an organization of your chosing and you can **enter a raffle** to win one of CHF/USD 100 gift cards.
 
 #### Data Privacy
-Gstell collects data about your browsing activity, but...
-- All data remains **local** on your machine. No data is sent to the cloud automatically. After the study, you will be able to manually upload the data to our secured servers.
+Gstell collects data about your browsing activity, **BUT**...
+- All data remains **local** on your machine. No data is sent to the cloud automatically. 
+- After the study, you will be able to review your data before manually uploding it to our secured servers.
 - Gstell can and will automatically obfuscate and anonymize sensitve data (e.g. URLs) that you share with us. 
-- You can review all your data that you share with us.
 
 > You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](/public/assets/gstell-consent-form.pdf).
 

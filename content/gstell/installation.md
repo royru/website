@@ -8,7 +8,7 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 
 ##  Browser Extension
 
-**Chrome/Edge**
+**Chrome/Edge/Opera**
 1. Download the [extension](/public/assets/gstell-browser-extension-chromium-4.0.0.zip).
 2. Unzip the *extension folder* and optionally move it to a different location for the duration of the study.
 3. In Chrome or Edge, go to `chrome:extensions`, and enable "Developer mode".

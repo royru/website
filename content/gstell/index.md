@@ -9,7 +9,7 @@ title: Gstell
 Gstell is a novel approach to help you get organized in the browser.
 Currently, we conduct a user study about it. 
 
-<a href="#learn-more" class="button">Try Gstell*</a>
+<a href="#learn-more" class="button">Try Gstell *</a>
 
 \* and support our research 😊
 
@@ -38,7 +38,7 @@ Gstell collects data about your browsing activity, **BUT**...
 
 #### Eligibility
 You may be eligible to participate in this research study and try Gstell if you:
-- Regularly use Chrome or Firefox on Windows or macOS
+- Regularly use Chrome, Edge, Opera or Firefox on Windows or macOS
 - Are able to install software on your device
 - Are over the age of 18
 

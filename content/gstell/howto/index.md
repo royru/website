@@ -7,12 +7,8 @@ title: Gstell - Usage Guide
 
 Gstell is an application to help you get organized in the browser.
 
-### Before you Start
-- You can set a [global shortcut](global-shortcut) to open Gstell.
-- You can create [browser extension shortcuts](browser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
-
 ### How to Use Gstell
-To open Gstell, you can press the [global shortcut](global-shortcut) or use the [status/task bar menu](status-bar-menu) &#10141; "Open Gstell".
+To open Gstell, you can press the [global shortcut](./capture-popup.mdglobal-shortcut) or use the [status/task bar menu](./capture-popup.mdstatus-bar-menu) &#10141; "Open Gstell".
 <br>
 <br>
 
@@ -24,10 +20,14 @@ To open Gstell, you can press the [global shortcut](global-shortcut) or use the 
 </div>
 
 ### While in the Browser
-While browsing the web...
-- you may get [reminders to capture](capture-popup) web pages that might be relevant to you,
-- you can see if a web pages was captured before and can [resurface its context](resurface-popup),
-- and you can manually capture web pages using [shortcuts](browser-extension-shortcuts) or the [context menu](browser-extension-context-menu).
+- You may get [reminders to capture](./capture-popup.mdcapture-popup) web pages that might be relevant to you,
+- you can see if a web pages was captured before and can [resurface its context](./capture-popup.mdresurface-popup),
+- and you can manually capture web pages using [shortcuts](./capture-popup.mdbrowser-extension-shortcuts) or the [context menu](./capture-popup.mdbrowser-extension-context-menu).
+
+
+## Hold on, before you Start
+- You can set a [global shortcut](./global-shortcut) to open Gstell.
+- You can create [browser extension shortcuts](./capture-popup.mdbrowser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
 
 <!-- ## After the Study
 - taking your data with you -->

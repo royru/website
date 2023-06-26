@@ -25,9 +25,9 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 - and you can manually capture web pages using [shortcuts](howto/browser-extension-shortcuts) or the [context menu](howto/browser-extension-context-menu).
 
 
-## Hold on, before you Start
-- You can set a [global shortcut](howto/global-shortcut) to open Gstell.
-- You can create [browser extension shortcuts](howto/browser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
+## Hold on, before you start...
+- Set a [global shortcut](howto/global-shortcut) to open Gstell.
+- Create [browser extension shortcuts](howto/browser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
 
 <!-- ## After the Study
 - taking your data with you -->

@@ -7,14 +7,22 @@ body {
 }
 
 h1 {
-  font-size: 2.2em;
+  font-size: 1.8em;
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  font-size: 1.8em;
+  letter-spacing: -0.025em;
+  font-weight: normal;
 }
 
 h3 {
   margin-top: 1.1em;
   margin-bottom: 0px;
   padding: 0;
-  color: #777;
+  font-size: 1em;
+  font-weight: bold;
 }
 
 h3+h1 {
@@ -36,6 +44,32 @@ a.button {
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
+}
+
+.screenshot-wrapper {
+  position: relative;
+  min-width: 600px;
+}
+
+.screenshot-wrapper img {
+  width: 500px;
+}
+
+.screenshot-wrapper span {
+  position: absolute;
+  left: 500px;
+}
+
+.screenshot-wrapper .browser {
+  top: 45px;
+}
+
+.screenshot-wrapper .shelf {
+  top: 170px;
+}
+
+.screenshot-wrapper .history {
+  top: 320px;
 }
 
 a {
@@ -83,11 +117,11 @@ code {
   }
 
   h2 {
-    font-size: 1.4em;
+    font-size: 1.3em;
   }
 
   h3 {
-    font-size: 1em;
+    font-size: 1.3em;
   }
 
   img {
@@ -105,4 +139,10 @@ figcaption {
   color: #505050;
   margin-top: 2px;
   margin-bottom: 20px;
+}
+
+figure.large {
+  width: 1000px;
+  margin-left: -100px;
+  text-align: center;
 }

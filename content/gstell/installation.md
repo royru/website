@@ -16,11 +16,17 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 
 > After the extension is installed, please do not move or delete the *extension folder* on your local system.
 
+> ⚠️ The extension may show some error messages. It's save to ignore them.
+
+<br>
+
 **Firefox**
 1. Download the [extension](/public/assets/gstell-browser-extension-firefox-4.0.2.xpi).
 2. Go to `about:addons` and select the "Extensions" tab. Click on the "gear" icon, and select "Install Add-on From File...".
 
-> We experienced a bug with Firefox. Please send an email to [rutis@ifi.uzh.ch](mailto:rutis@ifi.uzh.ch) if you want to use Firefox so we can show you how to circument the bug.
+> We experienced a bug with Firefox and are working on a fix. For the meantime, please send an email to [rutis@ifi.uzh.ch](mailto:rutis@ifi.uzh.ch)so we can show you how to work arount the bug.
+
+<br>
 
 ## Native Application
 1. Download the application.
@@ -42,10 +48,9 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 
 > 👉 For the duration of this study, please keep Gstell running.
 
-PS: the extension may show some error messages. It's save to ignore them.
-<figure>
+<!-- <figure>
   <img src="/public/img/extension-warnings.png" alt="Chrome Extension Warnings" style="width:auto">
-  <figcaption>Warning and Error Messages of the Google Chrome "Gstell" extension. It's save to ignore them.</figcaption>
+  <figcaption>Warning and error messages of the Google Chrome "Gstell" extension. It's save to ignore them.</figcaption>
 </figure>
 <br><br><br>
-
+ -->

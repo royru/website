@@ -16,7 +16,7 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 
 > After the extension is installed, please do not move or delete the *extension folder* on your local system.
 
-> ⚠️ The extension may show some error messages. It's save to ignore them.
+> ⚠️ The extension may display error messages. It's save to ignore them.
 
 <br>
 
@@ -47,6 +47,8 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 </figure>  
 
 > 👉 For the duration of this study, please keep Gstell running.
+
+<br><br><br>
 
 <!-- <figure>
   <img src="/public/img/extension-warnings.png" alt="Chrome Extension Warnings" style="width:auto">

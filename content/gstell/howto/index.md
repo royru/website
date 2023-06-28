@@ -14,8 +14,8 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 
 <div class="screenshot-wrapper">
   <img src="/public/img/howto/screenshot.png" alt="screenshot"/>
-  <span class="browser">Manage your <a href="howto/browser-tab-management">browser tabs.</a></span>
-  <span class="shelf">Save web pages to the <a href="howto/shelf">shelf</a>.</span>
+  <span class="browser">Manage your <a href="howto/browser-tab-management">tabs.</a></span>
+  <span class="shelf">Save pages to the <a href="howto/shelf">shelf</a>.</span>
   <span class="history">Create a <a href="howto/history">history</a> of web page groups.</span>
 </div>
 
@@ -28,6 +28,10 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 ## Hold on, before you start...
 - Set a [global shortcut](howto/global-shortcut) to open Gstell.
 - Create [browser extension shortcuts](howto/browser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
+
+<br>
+<br>
+<br>
 
 <!-- ## After the Study
 - taking your data with you -->

@@ -4,14 +4,12 @@ title: Gstell
 ---
 
 ### GSTELL
-# Organize Your Browsing
+# Organize Your Browser
 
 Gstell is a novel approach to help you get organized in the browser.
-Currently, we conduct a user study about it. 
+Currently, we are conducting a user study about it and would love to have you on board. 
 
-<a href="#learn-more" class="button">Try Gstell *</a>
-
-\* and support our research 😊
+<a href="#learn-more" class="button">Try Gstell</a> (and support our research)
 
 ![screenshot](/public/img/screenshot.png)
 

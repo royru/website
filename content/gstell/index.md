@@ -9,7 +9,7 @@ title: Gstell
 Gstell is a novel approach to help you get organized in the browser.
 Currently, we are conducting a user study about it and would love to have you on board. 
 
-<a href="#learn-more" class="button">Try Gstell</a> (and support our research)
+<a href="#learn-more" class="button">Join the Study</a>
 
 ![screenshot](/public/img/screenshot.png)
 

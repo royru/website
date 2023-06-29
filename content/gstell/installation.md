@@ -24,7 +24,7 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 1. Download the [extension](/public/assets/gstell-browser-extension-firefox-4.0.3.xpi).
 2. Go to `about:addons` and select the "Extensions" tab. Click on the "gear" icon, and select "Install Add-on From File...".
 
-> We experienced a bug with Firefox and are working on a fix. For the meantime, please send an email to [rutis@ifi.uzh.ch](mailto:rutis@ifi.uzh.ch)so we can show you how to work arount the bug.
+<!-- > We experienced a bug with Firefox and are working on a fix. For the meantime, please send an email to [rutis@ifi.uzh.ch](mailto:rutis@ifi.uzh.ch)so we can show you how to work arount the bug. -->
 
 <br>
 

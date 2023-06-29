@@ -31,7 +31,7 @@ Gstell is a novel approach to help you get organized in the browser. It consists
 ## Native Application
 1. Download the application.
    - [Windows](https://context-electron-updater.vercel.app/download/exe)
-     - ⚠️ [warning messages](windows-warnings) may pop up. 
+     - ⚠️ [warning messages](installation/windows-warnings) may pop up. 
    - [macOS (Intel)](https://context-electron-updater.vercel.app/download/dmg)
    - [macOS (Apple Silicon)](https://context-electron-updater.vercel.app/download/dmg_arm64)
 2. Follow the OS-specific installation process and start the application.

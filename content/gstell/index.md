@@ -19,24 +19,24 @@ Gstell is currently under scientific evaluation. Please consider signing up for 
 <a href="https://uzhwwf.qualtrics.com/jfe/form/SV_22V5buBvQLEgBxk" class="button">Join Study and Try Gstell</a>
 
 #### Procedure
-The study lasts around 4 weeks. You'll get to use Gstell in the second half and beyond - if you like. Along with using the app during your regular work day, you will be asked to fill out 2 online questionnaires at the beginning and end of the study (about 30 minutes each) and answer some questions throught the study (~5 minutes per day).
+The study takes around 4 weeks. During this period, you can continue working as usual and get to use our approach in the second half. Besides using the app during your regular work day, you will be asked to fill out 2 online questionnaires at the beginning and end of the study (about 20 minutes each) and answer some questions throughout the study (~5 minutes per day).
 
 #### Compensation
-You can **use Gstell for free** during and after the study. For each participation, we will also **donate CHF 10** to an organization of your chosing and you can **enter a raffle** to win one of CHF/USD 100 gift cards.
+You can **use Gstell for free** during and after the study. For each participation, we will also **donate CHF 10** to an organization of your choosing, and you can **enter a raffle** to win one of CHF/USD 100 gift cards.
 
 #### Data Privacy
 Gstell collects data about your browsing activity, **BUT**...
 - All data remains **local** on your machine. No data is sent to the cloud automatically. 
-- After the study, you will be able to review your data before manually uploding it to our secured servers.
-- Gstell will automatically obfuscate and randomize sensitive data (e.g. URLs) that you share with us. 
+- After the study, you can review your data before manually uploading it to our secured servers.
+- Gstell will automatically obfuscate and randomize any sensitive data.  
 
 > You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](/public/assets/gstell-consent-form.pdf).
 
 #### Eligibility
 You may be eligible to participate in this research study and try Gstell if you:
-- Regularly use Chrome, Edge, Opera or Firefox on Windows or macOS
-- Are able to install software on your device
-- Are over the age of 18
+- regularly use Chrome, Edge, Opera, or Firefox on Windows or macOS,
+- are able to install software on your device, and
+- are over the age of 18
 
 #### Researchers
 - [Prof. Dr. Thomas Fritz](https://hasel.dev/team/thomas-fritz)<br>

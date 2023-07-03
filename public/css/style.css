@@ -146,3 +146,21 @@ figure.large {
   margin-left: -100px;
   text-align: center;
 }
+
+.header-ad {
+  display: flex;
+}
+
+.header-ad img {
+  width: 350px;
+}
+
+@media screen and (max-width: 800px) {
+  .header-ad {
+    flex-direction: column;
+  }
+
+  .header-ad img {
+    width: 80%;
+  }
+}

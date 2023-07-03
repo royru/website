@@ -3,15 +3,17 @@ layout: gstell.njk
 title: Gstell
 ---
 
-### GSTELL
-# Organize Your Browser
+<div class="header-ad">
+  <div>
+    <h3>GSTELL</h3>
+    <h1>Organize Your Browser</h1>
 
-Gstell is a novel approach to help you get organized in the browser.
-We are conducting a user study about it and would love to have you on board. 
+    <p>Gstell is a novel approach to help you get organized in the browser.
+    We are conducting a user study about it and would love to have you on board. </p>
+  </div>
+  <img  src="/public/img/screenshot.png"/>
 
-![screenshot](/public/img/screenshot.png)
-
-<br id="learn-more">
+</div>
 
 ## About the User Study
 Gstell is currently under scientific evaluation. Please consider signing up for our user study:

@@ -7,16 +7,14 @@ title: Gstell
 # Organize Your Browser
 
 Gstell is a novel approach to help you get organized in the browser.
-Currently, we are conducting a user study about it and would love to have you on board. 
-
-<a href="#learn-more" class="button">Join the Study</a>
+We are conducting a user study about it and would love to have you on board. 
 
 ![screenshot](/public/img/screenshot.png)
 
 <br id="learn-more">
 
 ## About the User Study
-Gstell is currently under scientific evaluation. To try Gstell for free, please consider signing up to our user study:
+Gstell is currently under scientific evaluation. Please consider signing up for our user study:
 
 <a href="https://uzhwwf.qualtrics.com/jfe/form/SV_22V5buBvQLEgBxk" class="button">Join Study and Try Gstell</a>
 
@@ -30,7 +28,7 @@ You can **use Gstell for free** during and after the study. For each participati
 Gstell collects data about your browsing activity, **BUT**...
 - All data remains **local** on your machine. No data is sent to the cloud automatically. 
 - After the study, you will be able to review your data before manually uploding it to our secured servers.
-- Gstell can and will automatically obfuscate and anonymize sensitve data (e.g. URLs) that you share with us. 
+- Gstell will automatically obfuscate and randomize sensitive data (e.g. URLs) that you share with us. 
 
 > You can learn more about the study procedure, data storage, and privacy by consulting our [consent form](/public/assets/gstell-consent-form.pdf).
 

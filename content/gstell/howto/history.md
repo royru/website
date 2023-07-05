@@ -4,7 +4,7 @@ title: Gstell - History
 ---
 
 # History
-Grouped web pages are listed in a timeline. To learn how to create, manage, and remove groups, consider following our [tutorial](../gstell/tutorial).
+Grouped web pages are listed in a timeline. To learn how to create, manage, and remove groups, consider following our [tutorial](../tutorial).
 
 <br>
 <br>

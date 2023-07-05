@@ -59,10 +59,24 @@ title: Gstell - Tutorial
 
 
 ### Close the open browser tabs of the new group
-4. Notice the green dot besides the web pages of the new group, which indicate that these web pages are open as tabs in the browser.
-5. Click on the green button "close open tabs" to close the tabs in your browser.
+1. Notice the green dot besides the web pages of the new group, which indicate that these web pages are open as tabs in the browser.
+2. Click on the green button "close open tabs" to close the tabs in your browser.
 
 ![](/public/img/tutorial/tutorial-7.png)
+
+
+### Star a group
+1. Click on the "star group" button below the new group. 
+
+![](/public/img/tutorial/tutorial-8a.png)
+
+2. The starred group appears under "starred".
+
+![](/public/img/tutorial/tutorial-8b.png)
+
+3. Simultaneously, a bookmark group is created in your browser under "Other Bookmarks". Here's an example from Firefox:
+  
+![](/public/img/tutorial/tutorial-8c.png)
 
 <br>
 <br>

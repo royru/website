@@ -14,15 +14,15 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 
 <div class="screenshot-wrapper">
   <img src="/public/img/howto/screenshot.png" alt="screenshot"/>
-  <span class="browser">Manage your <a href="howto/browser-tab-management">tabs.</a></span>
-  <span class="shelf">Save web pages in-flow to the <a href="howto/shelf">shelf</a> for later review.</span>
-  <span class="history">Capture context by forming <a href="howto/history">groups of web pages</a>.</span>
+  <span class="browser">Manage open <a href="howto/browser-tab-management">tabs.</a></span>
+  <span class="shelf"><a href="howto/shelf">Shelve</a> web pages in-flow for later review.</span>
+  <span class="history">Capture context by forming <a href="howto/history">groups</a>.</span>
 </div>
 
 ### While in the Browser
-- You may get [reminders to capture](howto/capture-popup) web pages that might be relevant to you,
-- you can see if a web pages was captured before and can [resurface its context](howto/resurface-popup),
-- and you can manually capture web pages using [shortcuts](howto/browser-extension-shortcuts) or the [context menu](howto/browser-extension-context-menu).
+- You may get [popup-reminders to capture](howto/capture-popup) web pages,
+- you can directly [access context](howto/resurface-popup) of captured web pages, and
+- you can capture web pages using [shortcuts](howto/browser-extension-shortcuts) or the [context menu](howto/browser-extension-context-menu).
 
 
 ## Hold on, before you start...
@@ -32,6 +32,3 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 <br>
 <br>
 <br>
-
-<!-- ## After the Study
-- taking your data with you -->

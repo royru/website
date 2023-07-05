@@ -8,7 +8,8 @@ Browser extension shortcuts are helpful to quickly group or shelf webpage(s) whe
 
 - You can set shortcuts under:
   - [chrome://extensions/shortcuts](chrome://extensions/shortcuts) (Chrome)
-  - [about:addons](about:addons) (Firefox). Go to "settings" (gear icon), and click "Manage Extension Shortcuts".
+  - [about:addons](about:addons) (Firefox). 
+    - Go to "settings" (gear icon), and click "Manage Extension Shortcuts".
 
 <figure>
   <img src="/public/img/howto/browser-extension-shortcuts-chrome.png" alt="Setting Browser Extension Shortcuts in Chrome" style="width:auto; max-width: 600px;">

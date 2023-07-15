@@ -36,8 +36,8 @@ Gstell collects data about your browsing activity, **BUT**...
 
 #### Eligibility
 You may be eligible to participate in this research study and try Gstell if you:
-- regularly use Chrome, Edge, Opera, or Firefox on Windows or macOS,
-- are able to install software on your device, and
+- regularly use Chrome, Edge, Opera, or Firefox on Windows or macOS for work,
+- are able to install software on your (work) device, and
 - are over the age of 18
 
 #### Researchers

@@ -28,7 +28,7 @@ To open Gstell, you can press the [global shortcut](howto/global-shortcut) or us
 ## Hold on, before you start...
 - Set a [global shortcut](howto/global-shortcut) to open Gstell.
 - Create [browser extension shortcuts](howto/browser-extension-shortcuts) to shelve or group webpage(s) when you are actively working in the browser.
-- Would you rather groups opened in a new browser window? You can set `openTabsInNewWindow:true` in the config ("Menu > Open Config") to do so..
+- Would you rather groups opened in a new browser window? You can set `openTabsInNewWindow: true` in the config ("Menu > Open Config") to do so..
 <br>
 <br>
 <br>
